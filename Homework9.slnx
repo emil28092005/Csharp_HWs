@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Homework9/">
+    <Project Path="Homework9/AdventureJournal/AdventureJournal.csproj" />
+    <Project Path="Homework9/BestiaryConverter/BestiaryConverter.csproj" />
+    <Project Path="Homework9/PlayerProfiles/PlayerProfiles.csproj" />
+  </Folder>
+</Solution>
